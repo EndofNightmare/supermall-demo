@@ -1,0 +1,11 @@
+# vue-cli 2.x 和 4.x 版本才有 用于一些格式的统一
+
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = 1f
+insert_final_newline = true
+trim_trailing_whitespace = true
